@@ -2,7 +2,7 @@
 
 https://github.com/damo-cv/FLUX-customID
 
-![image](preview.png)
+![image](workflow.png)
 
 ## Install
 
