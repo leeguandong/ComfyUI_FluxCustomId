@@ -1,6 +1,6 @@
-# ComfyUI nodes to use MasaCtrl
+# ComfyUI nodes to use FluxCustomId
 
-https://github.com/TencentARC/MasaCtrl
+[https://github.com/TencentARC/MasaCtrl](https://github.com/damo-cv/FLUX-customID)
 
 ![image](preview.png)
 
@@ -10,7 +10,7 @@ https://github.com/TencentARC/MasaCtrl
 
 - 手动安装：
     1. `cd custom_nodes`
-    2. `git clone https://github.com/leeguandong/ComfyUI_MasaCtrl.git`
+    2. `git clone https://github.com/leeguandong/ComfyUI_FluxCustomId.git`
     3. 重启 ComfyUI
 
 ## Use
