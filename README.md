@@ -1,6 +1,6 @@
 # ComfyUI nodes to use FluxCustomId
 
-[https://github.com/TencentARC/MasaCtrl](https://github.com/damo-cv/FLUX-customID)
+https://github.com/damo-cv/FLUX-customID
 
 ![image](preview.png)
 
