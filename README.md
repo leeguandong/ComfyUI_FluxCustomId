@@ -15,7 +15,7 @@ https://github.com/damo-cv/FLUX-customID
 
 ## Stars
 
-[![Star History Chart](https://api.star-history.com/svg?repos=leeguandong/ComfyUI_MasaCtrl&type=Date)](https://star-history.com/#leeguandong/ComfyUI_MasaCtrl&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=leeguandong/ComfyUI_FluxCustomId&type=Date)](https://star-history.com/#leeguandong/ComfyUI_FluxCustomId&Date)
 
 
 
